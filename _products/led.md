@@ -7,7 +7,7 @@ description_markdown: >-
 
 
 
-price: '.2'
+price: '.50'
 
 
 styles:
