@@ -1,0 +1,16 @@
+- name: MekTek
+  link: 'http://mektekbd.com'
+  new_window: true
+  highlight: false
+- name: Products
+  link: /
+  new_window: false
+  highlight: false
+- name: Our Blog
+  link: 'http://blog.mektekbd.com'
+  new_window: true
+  highlight: false
+- name: Contact
+  link: /contact/
+  new_window: false
+  highlight: false

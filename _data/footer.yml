@@ -1,0 +1,23 @@
+- title: General
+  links:
+    - name: Products
+      link: /
+    - name: Contact
+      link: /contact/
+- title: Contact Us
+  links:
+    - name:  <b><big>Phone-</b></big> 01876-683485
+    - social_icon: Facebook
+      name: MekTek Shop
+      link: 'https://www.facebook.com/'
+      new_window: true
+    - name: <b><big>Mail-</b></big>shop.mektekbd@gmail.com
+      link: 'mailto: shop.mektekbd@gmail.com'
+      new_window: true
+    - name:  <b><big>Address-</big></b> Norther Mor, Talaimari, Rajshahi.
+- title: Help
+  links:
+    - name: Shipping
+      link: /shipping/
+    - name: Returns
+      link: /returns/
