@@ -10,6 +10,6 @@ price: '2'
 
 
 styles:
-  - image: /images/products/transistor.jpg
+  - image: /images/products/transistor_c828.jpg
 
 ---
