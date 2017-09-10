@@ -5,7 +5,7 @@ title: MekTekShop
 url: "http://shop.mektekbd.com/"
 baseurl: " http://shop.mektekbd.com/"
 google_analytics_key:
-google_maps_javascript_api_key:
+google_maps_javascript_api_key: 'AIzaSyAXUrwcC9Ub4TnkRmDh1tRKuIIoGjTw6k4'
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /mektek.png
