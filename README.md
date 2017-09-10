@@ -1,1 +1,3 @@
-# shop
+# Official website for MekTek Shop
+---
+
