@@ -8,6 +8,6 @@ price: '0.20'
 
 
 styles:
-  - image: /images/products/resistance.jpg
+  - image: /images/products/resistance1.jpg
 
 ---

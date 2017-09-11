@@ -7,6 +7,6 @@ price: '5'
 
 
 styles:
-  - image: /images/products/potentiometer.jpg
+  - image: /images/products/potentiometer1.jpg
 
 ---

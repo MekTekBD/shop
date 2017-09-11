@@ -3,7 +3,7 @@ name: Diode
 description_markdown: >-
     Available: 1N4007 <br/> <br/>
     Description:  This is an epoxy molded,subminiature size, axial lead mounted rectifiers for general–purpose low–power applications. <br/><br/>
-    
+
     Specification:  <br/>
     - Diode Diode Type:Standard Recovery <br/>
     - Peak Repetitive Reverse Voltage:1000V <br/>
@@ -11,12 +11,12 @@ description_markdown: >-
     - RMS Reverse Voltage:700V <br/>
     - Operating Temperature Range:-65 C to +150 <br/>
     - C RoHS Compliant: Yes <br/>
-    
-    
+
+
 price: '1'
 
 
 styles:
-  - image: /images/products/diode.jpg
+  - image: /images/products/diode1.jpg
 
 ---
