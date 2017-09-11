@@ -16,6 +16,6 @@ price: '75'
 
 
 styles:
-  - image: /images/products/atmega8a1.jpg
+  - image: /images/products/atmega8a.jpg
 
 ---
