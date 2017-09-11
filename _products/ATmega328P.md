@@ -22,6 +22,6 @@ price: '135'
 
 
 styles:
-  - image: /images/products/capacitor.jpg
+  - image: /images/products/atmega328p.jpg
 
 ---
