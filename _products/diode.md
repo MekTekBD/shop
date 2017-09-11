@@ -17,6 +17,6 @@ price: '1'
 
 
 styles:
-  - image: /images/products/diode1.jpg
+  - image: /images/products/diode.jpg
 
 ---
