@@ -7,6 +7,6 @@ price: '1'
 
 
 styles:
-  - image: /images/products/capacitor.jpg
+  - image: /images/products/capacitor1.jpg
 
 ---

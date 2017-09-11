@@ -11,6 +11,6 @@ price: '0.50'
 
 
 styles:
-  - image: /images/products/led.jpg
+  - image: /images/products/led1.jpg
 
 ---
