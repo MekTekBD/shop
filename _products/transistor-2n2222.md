@@ -1,5 +1,5 @@
 ---
-name: Capacitor
+name: Transistor - 2n2222
 description_markdown: >-
 
     #### DESCRIPTION: <br/>
