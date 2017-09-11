@@ -1,10 +1,10 @@
 ---
 name: ATmega32A
 description_markdown: >-
-    #### DESCRIPTION: <br/>
+    #### DESCRIPTION:
     The high-performance, low-power Atmel 8-bit AVR RISC-based microcontroller combines 32KB of programmable flash memory, 2KB SRAM, 1KB EEPROM, an 8-channel 10-bit A/D converter, and a JTAG interface for on-chip debugging. The device supports throughput of 16 MIPS at 16 MHz and operates between 4.5-5.5 volts.
     <br/><br/>
-    #### SPECIFICATION: <br/>
+    #### SPECIFICATION:
     * CPU:8 Bit AVR <br/>
     * Flash:32 KBytes <br/>
     * SRAM:2 KB <br/>
