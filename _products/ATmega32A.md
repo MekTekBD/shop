@@ -5,19 +5,20 @@ description_markdown: >-
     #### DESCRIPTION:
 
     The high-performance, low-power Atmel 8-bit AVR RISC-based microcontroller combines 32KB of programmable flash memory, 2KB SRAM, 1KB EEPROM, an 8-channel 10-bit A/D converter, and a JTAG interface for on-chip debugging. The device supports throughput of 16 MIPS at 16 MHz and operates between 4.5-5.5 volts.
-    <br/><br/>
+
+
     #### SPECIFICATION:
 
-    * CPU:8 Bit AVR <br/>
-    * Flash:32 KBytes <br/>
-    * SRAM:2 KB <br/>
-    * Maximum I/O Pins:32 <br/>
-    * Maximum Operating Frequency:16 MHz <br/>
-    * ADC:10 Bit <br/>
-    * Timers:3 Nos <br/>
+    * CPU:8 Bit AVR
+    * Flash:32 KBytes
+    * SRAM:2 KB
+    * Maximum I/O Pins:32
+    * Maximum Operating Frequency:16 MHz
+    * ADC:10 Bit
+    * Timers:3 Nos
     * Operating Voltage:
-     – 2.7V - 5.5V for ATmega32L<br/>
-     – 4.5V - 5.5V for ATmega32<br/>
+     – 2.7V - 5.5V for ATmega32L
+     – 4.5V - 5.5V for ATmega32
 
 price: '180'
 
