@@ -17,6 +17,6 @@ price: '2'
 
 
 styles:
-  - image: /images/products/transistor_c8281.jpg
+  - image: /images/products/transistor_2n22221.jpg
 
 ---
