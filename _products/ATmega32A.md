@@ -24,10 +24,10 @@ description_markdown: >-
 
 
 
-price: '2'
+price: '180'
 
 
 styles:
-  - image: /images/products/atmega32.jpg 
+  - image: /images/products/atmega32.jpg
 
 ---
