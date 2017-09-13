@@ -3,11 +3,11 @@ name: Capacitor
 description_markdown: >-
   ### Available Capacitor
 
-  * 1 µF
-  * 10 µF
-  * 22 µF
-  * 47 µF
-  * 100 µF
+  * 1 µF <br/>
+  * 10 µF <br/>
+  * 22 µF <br/>
+  * 47 µF <br/>
+  * 100 µF <br/>
 
 price: '2'
 
