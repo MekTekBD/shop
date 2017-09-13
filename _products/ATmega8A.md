@@ -24,3 +24,5 @@ price: '75'
 
 styles:
   - image: /images/products/atmega8a.jpg
+
+---
