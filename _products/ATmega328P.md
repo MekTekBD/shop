@@ -3,8 +3,8 @@ name: ATmega328P
 description_markdown: >-
 
     #### DESCRIPTION: <br/>
-    
-    The ATmega328P is a low-power CMOS 8-bit microcontroller based on the AVRenhanced RISC architecture. By executing powerful instructions in a single clock cycle, the ATmegaPA/328P achieves throughputs approaching 1 MIPS per MHz allowing the systemdesigner to optimize power consumption versus processing speed.
+
+    The ATmega328P is a low-power CMOS 8-bit microcontroller based on the AVR enhanced RISC architecture. By executing powerful instructions in a single clock cycle, the ATmegaPA/328P achieves throughputs approaching 1 MIPS per MHz allowing the system designer to optimize power consumption versus processing speed.
 
 
 
