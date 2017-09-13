@@ -4,11 +4,11 @@ description_markdown: >-
     #### Available:  <br/>
     1N4007 <br/> <br/>
 
-    ####Description:  <br/>  
+    #### Description:  <br/>  
 
     This is an epoxy molded,subminiature size, axial lead mounted rectifiers for general–purpose low–power applications. <br/><br/>
 
-    Specification:  <br/>
+    #### Specification:  <br/>
     * Diode Diode Type:Standard Recovery <br/>
     * Peak Repetitive Reverse Voltage:1000V <br/>
     * Non–Repetitive Peak Reverse Voltage:1200V <br/>
